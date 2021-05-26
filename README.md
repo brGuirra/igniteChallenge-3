@@ -1,8 +1,8 @@
 ![alt text](https://github.com/brGuirra/igniteChallenge-1/blob/media/ignite.png?raw=true)
 
-# Ignite Challenge 1
+# Ignite Challenge 3
 
-Challenge of the React track from the Ignite Bootcamp provided by @Rocketseat
+Challenge of the React track from the Ignite Bootcamp provided by [Rocketseat](https://github.com/Rocketseat)
 
 Built with ReactJS and TypeScript
 
